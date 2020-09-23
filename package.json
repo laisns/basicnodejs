@@ -1,0 +1,16 @@
+{
+  "name": "learningnode",
+  "version": "1.0.0",
+  "dependencies": {
+    "moment": "^2.27.0",
+    "request": "^2.88.2"
+  },
+  "main": "hello.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
